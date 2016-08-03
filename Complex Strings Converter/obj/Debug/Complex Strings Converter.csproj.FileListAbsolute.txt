@@ -1,0 +1,9 @@
+E:\projects\Complex Strings Converter\Complex Strings Converter\bin\Debug\Complex_Strings_Converter.exe.config
+E:\projects\Complex Strings Converter\Complex Strings Converter\bin\Debug\Complex_Strings_Converter.exe
+E:\projects\Complex Strings Converter\Complex Strings Converter\bin\Debug\Complex_Strings_Converter.pdb
+E:\projects\Complex Strings Converter\Complex Strings Converter\obj\Debug\Complex Strings Converter.csprojResolveAssemblyReference.cache
+E:\projects\Complex Strings Converter\Complex Strings Converter\obj\Debug\Complex_Strings_Converter.Form1.resources
+E:\projects\Complex Strings Converter\Complex Strings Converter\obj\Debug\Complex Strings Converter.Properties.Resources.resources
+E:\projects\Complex Strings Converter\Complex Strings Converter\obj\Debug\Complex Strings Converter.csproj.GenerateResource.Cache
+E:\projects\Complex Strings Converter\Complex Strings Converter\obj\Debug\Complex_Strings_Converter.exe
+E:\projects\Complex Strings Converter\Complex Strings Converter\obj\Debug\Complex_Strings_Converter.pdb
